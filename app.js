@@ -29,7 +29,7 @@ if (link.indexOf('#') != -1 && link.indexOf('#') != (link.length - 1)) {
 
 // LINES THAT ARE STORING IN A ARRAY
 var lines = [
-    "Do you be my search engine? Because you’ve got everything I’ve been searching for in my life.",
+    "Do you want to be my search engine? Because you’ve got everything I’ve been searching for in my life.",
     "Found the reason for my smile, the day I found you. Will you let me be the reason for your smile?",
     "In you, my life becomes whole, with you my days become bright. In your hands I would love to lay, this night and for the rest of my life!",
     "You deserve the world and all the good things it has to offer. If I fail to find that world for you, I promise to give you mine!",
